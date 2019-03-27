@@ -1,0 +1,30 @@
+.facture {
+    width: 80%
+}
+.facture thead {
+    background: #EEE;
+}
+.facture th, .facture td {
+    border: 1px solid gray;
+    padding: 6px;
+}
+.facture tfoot {
+    text-align: right;
+    font-size: 24px;
+    font-weight: bold;
+    background: #EEE;
+}
+.facture .ref {
+    font-weight: bold;
+}
+.facture .prix {
+    text-align: right;
+}
+.facture .qte {
+    text-align: right;
+    width: 40px
+}
+.facture .st {
+    text-align: right;
+    font-weight: bold;
+}
